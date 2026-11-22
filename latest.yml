@@ -1,8 +1,8 @@
-version: 0.251.0
+version: 0.252.0
 files:
-  - url: FinansImparatorlugu-0.251.0-x64.exe
-    sha512: 4y+g7i9e3ycRE2s4Ua5bcEoKltqTav2ewO1JNiszo5eir6/Pnf/TzVaHAoa3URBd71H997cmBKtG9GRyE9kWwg==
-    size: 101493858
-path: FinansImparatorlugu-0.251.0-x64.exe
-sha512: 4y+g7i9e3ycRE2s4Ua5bcEoKltqTav2ewO1JNiszo5eir6/Pnf/TzVaHAoa3URBd71H997cmBKtG9GRyE9kWwg==
-releaseDate: '2026-11-22T10:12:58.049Z'
+  - url: FinansImparatorlugu-0.252.0-x64.exe
+    sha512: gSnuWIMplYsLLNbVlHD8S5477BSbcdJAIfCXohZEJCyxGamTQ9XkmlCAEE/sm9Y0nRAiBMmvldxSPoEiAwxhAQ==
+    size: 101494481
+path: FinansImparatorlugu-0.252.0-x64.exe
+sha512: gSnuWIMplYsLLNbVlHD8S5477BSbcdJAIfCXohZEJCyxGamTQ9XkmlCAEE/sm9Y0nRAiBMmvldxSPoEiAwxhAQ==
+releaseDate: '2026-11-22T11:11:27.426Z'
