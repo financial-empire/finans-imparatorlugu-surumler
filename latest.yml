@@ -1,8 +1,8 @@
-version: 0.287.0
+version: 0.288.0
 files:
-  - url: FinansImparatorlugu-0.287.0-x64.exe
-    sha512: 8Ph/FvDNbQOmK9hNZ5Ex0yymF97Rco855kkH/m1YyKp5A01WdHAiJuwWOHQPZzAhdP8jP09pfQPWEAomlDd2YQ==
-    size: 101941025
-path: FinansImparatorlugu-0.287.0-x64.exe
-sha512: 8Ph/FvDNbQOmK9hNZ5Ex0yymF97Rco855kkH/m1YyKp5A01WdHAiJuwWOHQPZzAhdP8jP09pfQPWEAomlDd2YQ==
-releaseDate: '2026-11-23T08:45:13.243Z'
+  - url: FinansImparatorlugu-0.288.0-x64.exe
+    sha512: 1goPrxXUL10NSy7af+PsQCVW3cu+9q4L40ffSzeHHlOf+gvK6iLQELyOPlERiwKnl8aRBlMKq2ZBB0LLOYmv3Q==
+    size: 101957603
+path: FinansImparatorlugu-0.288.0-x64.exe
+sha512: 1goPrxXUL10NSy7af+PsQCVW3cu+9q4L40ffSzeHHlOf+gvK6iLQELyOPlERiwKnl8aRBlMKq2ZBB0LLOYmv3Q==
+releaseDate: '2026-11-23T10:01:30.515Z'
