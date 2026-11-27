@@ -1,8 +1,8 @@
-version: 0.365.0
+version: 0.366.0
 files:
-  - url: https://github.com/financial-empire/finans-imparatorlugu-surumler/releases/download/v0.365.0/FinansImparatorlugu-0.365.0-x64.exe
-    sha512: 62rhLk59V9kB5ZxV76G2pofr1TVl0kcyrIj47ASYYR/riyh52IdcN4OrQ21uJjIL1d2+JRcxLQxtGmP3zJ0+pA==
-    size: 103053619
-path: https://github.com/financial-empire/finans-imparatorlugu-surumler/releases/download/v0.365.0/FinansImparatorlugu-0.365.0-x64.exe
-sha512: 62rhLk59V9kB5ZxV76G2pofr1TVl0kcyrIj47ASYYR/riyh52IdcN4OrQ21uJjIL1d2+JRcxLQxtGmP3zJ0+pA==
-releaseDate: '2026-11-27T00:51:57.736Z'
+  - url: https://github.com/financial-empire/finans-imparatorlugu-surumler/releases/download/v0.366.0/FinansImparatorlugu-0.366.0-x64.exe
+    sha512: WqEaa0It0bv5bFAi0w1LB8FMVhwBsX7qNu3IG4j3bxqQqN1cfDgepVopjheI3KEm3MrZgeSmb7mjrM54QL9TgQ==
+    size: 103062503
+path: https://github.com/financial-empire/finans-imparatorlugu-surumler/releases/download/v0.366.0/FinansImparatorlugu-0.366.0-x64.exe
+sha512: WqEaa0It0bv5bFAi0w1LB8FMVhwBsX7qNu3IG4j3bxqQqN1cfDgepVopjheI3KEm3MrZgeSmb7mjrM54QL9TgQ==
+releaseDate: '2026-11-27T03:48:24.555Z'
